@@ -22,18 +22,18 @@
         </tr>
         <tr>
             <td>SQL 개발자 [2023.04 - 한국데이터산업진흥원]</td>
-    </table></li><br></li></li><li> 해외 워크숍, 교내 교육 활동에 참여하여 커뮤니케이션 역량을 키워 왔습니다.<br></br> <table align="center">
+    </table></li><br></li></li><li> 해외 워크숍, 교내 SW교육 활동에 참여하여 커뮤니케이션 역량을 키워 왔습니다.<br></br> <table align="center">
         <tr>
             <td>2023년도 하계 해외 대학 공동 워크숍(캄보디아 왕립프놈펜대학교) 프로그램</td>
         </tr>
         <tr>
-            <td>SCH 프런티어 2기</a></td>
+            <td>2023 SCH 프런티어 2기</a></td>
         </tr>
         <tr>
-            <td>SCH 프런티어 1기</td></td>
+            <td>2022 SCH 프런티어 1기</td></td>
     </table></li></li><br></li></li><li> 적극적으로 경진 대회에 참여하여 다수 수상을 해왔습니다.<br></br> <table align="center">
         <tr>
-            <td>제 7회 빅데이터 분석 및 개발 경진 대회 - 우수상</td>
+            <td>2023 제 7회 빅데이터 분석 및 개발 경진 대회 - 우수상</td>
         </tr>
         <tr>
             <td>2022 SCH AI·SW Festival - 우수상 </td>
