@@ -30,16 +30,19 @@
             <td>2023 SCH 프런티어 2기</a></td>
         </tr>
         <tr>
+            <td>OS Programming 동아리</a></td>
+        </tr>
+        <tr>
             <td>2022 SCH 프런티어 1기</td></td>
     </table></li></li><br></li></li><li> 적극적으로 경진 대회에 참여하여 다수 수상을 해왔습니다.<br></br> <table align="center">
         <tr>
-            <td>2023 제 7회 빅데이터 분석 및 개발 경진 대회 - 우수상</td>
+            <td><a href="https://github.com/SummerToday/pneumonia-Covid-X-ray-Classification-Using-CNN-Model.git">2023 제 7회 빅데이터 분석 및 개발 경진 대회</a> - 우수상</td>
         </tr>
         <tr>
-            <td>2022 SCH AI·SW Festival - 우수상 </td>
+            <td><a href="https://github.com/SummerToday/Where-does-it-hurt---Front.git">2022 SCH AI·SW Festival</a> - 우수상</td>
         </tr>
         <tr>
-            <td>2022 OS Programming 동아리 프로그램 경진대회 - 대상</td>
+            <td><a href="https://github.com/SummerToday/RythmGame-Java_OracleDB.git">2022 OS Programming 동아리 프로그램 경진대회</a> - 대상</td><td></td>
     </table></li></li><br></li></li></li><li> <a href=https://velog.io/@summer_today/posts> 기술 블로그 </a>에 꾸준히 공부한 내용들을 기록하면서 성장해 나아가고 있습니다. </div> 
     </div>
     <div align= "center">
