@@ -3,15 +3,16 @@
     </div>
     <div align= "center"> 
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 맡은 일에 책임을 다하고, 성실하게 앞으로 나아가는 개발자입니다.  </h1>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <br></li></li><li> Java, Spring Framework에 관심이 많아 관련 프로젝트들을 진행하면서 실력을 쌓고 있습니다. <br></br> <table align="center">
-        <tr>
-            <td><a href="https://github.com/SummerToday/RythmGame-Java_OracleDB.git">Java 리듬 게임</a> - OS Programming 동아리 프로그램 경진대회 대상</td>
-        </tr>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <br></li></li><li>Spring Framework,  Java에 관심이 많아 관련 프로젝트들을 진행하면서 실력을 쌓고 있습니다. <br></br> <table align="center">
         <tr>
             <td><a href="https://github.com/SummerToday/Blog_SpringProject.git">Spring Boot, AWS 블로그 서비스</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/SummerToday/SpringBoot-Project-Restaurant-Review-Service.git">Spring Boot, Docker 를 활용한 맛집 리뷰 서비스 벡엔드 개발</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/SummerToday/RythmGame-Java_OracleDB.git">Java 리듬 게임</a> - OS Programming 동아리 프로그램 경진대회 대상</td>
+        </tr>    
     </table>
 </div></li></li><br></li></li><li> 정보처리기사, SQL 개발자, AWS SAA와 같은 전문 자격증을 취득하여 전문성을 겸비하였습니다.<br></br> <table align="center">
         <tr>
