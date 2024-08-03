@@ -5,10 +5,10 @@
     <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 끊임 없는 변화와 자기 주도적 학습을 추구합니다.  </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <br></li></li><li>Spring Framework,  Java에 관심이 많아 관련 프로젝트들을 진행하면서 실력을 쌓고 있습니다. <br></br> <table align="center">
         <tr>
-            <td><a href="https://github.com/SummerToday/Blog_SpringProject.git">Spring Boot, AWS 블로그 서비스</a></td>
+            <td><a href="https://github.com/SummerToday/Blog_SpringProject.git">Spring Boot, AWS 활용 블로그 서비스</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/SummerToday/SpringBoot-Project-Restaurant-Review-Service.git">Spring Boot, Docker 를 활용한 맛집 리뷰 서비스 벡엔드 개발</a></td>
+            <td><a href="https://github.com/SummerToday/SpringBoot-Project-Restaurant-Review-Service.git">Spring Boot, AWS, Docker 를 활용한 맛집 리뷰 서비스 벡엔드 개발</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/SummerToday/RythmGame-Java_OracleDB.git">Java 리듬 게임</a> - OS Programming 동아리 프로그램 경진대회 대상</td>
