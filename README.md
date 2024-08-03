@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=24549d&height=240&text=반갑습니다!%20김인경입니다😀&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 맡은 일에 책임을 다하고, 성실하게 앞으로 나아가는 개발자입니다.  </h1>  
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 끊임 없는 변화와 자기 주도적 학습을 추구합니다.  </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <br></li></li><li>Spring Framework,  Java에 관심이 많아 관련 프로젝트들을 진행하면서 실력을 쌓고 있습니다. <br></br> <table align="center">
         <tr>
             <td><a href="https://github.com/SummerToday/Blog_SpringProject.git">Spring Boot, AWS 블로그 서비스</a></td>
